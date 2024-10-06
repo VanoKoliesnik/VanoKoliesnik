@@ -1,6 +1,8 @@
-# Ivan Koliesnik - Full-Stack / Backend Developer
+<div style="display: flex; justify-content: center; align-items: center; margin: 16px;">
+  <img src="assets/logo.png" style="width: 400px; height: auto;">
+</div>
 
-![Profile Banner](/assets/logo.png)
+# Ivan Koliesnik - Full-Stack / Backend Developer
 
 ## About Me
 I am a **Full-Stack / Backend Developer** with expertise in building scalable backend systems, integrating blockchain technologies, and working with microservice architectures.
@@ -45,6 +47,7 @@ I am a **Full-Stack / Backend Developer** with expertise in building scalable ba
 - Telegram: [VanoKoliesnik](https://t.me/VanoKoliesnik)
 
 ## Hobbies
-- Unreal Engine (game mechanics)
-- Blender (3D modeling)
-- Video games, PC building, Hiking
+- 🕹️ Unreal Engine
+- 🎮 Video games
+- 🖥️ PC building
+- 🌄 Hiking
