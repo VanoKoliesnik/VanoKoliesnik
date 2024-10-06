@@ -2,7 +2,7 @@
   <img src="assets/logo.png" style="width: 400px; height: auto;">
 </div>
 
-# Ivan Koliesnik - Full-Stack / Backend Developer
+# Full-Stack / Backend Developer
 
 ## About Me
 I am a **Full-Stack / Backend Developer** with expertise in building scalable backend systems, integrating blockchain technologies, and working with microservice architectures.
