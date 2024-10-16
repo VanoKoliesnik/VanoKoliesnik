@@ -1,7 +1,3 @@
-<div style="display: flex; justify-content: center; align-items: center; margin: 16px;">
-  <img src="assets/logo.png" style="width: 400px; height: auto;">
-</div>
-
 # Full-Stack / Backend Developer
 
 ## About Me
